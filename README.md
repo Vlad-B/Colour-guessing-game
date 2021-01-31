@@ -3,7 +3,7 @@ A fun and simple colour guessing game. Great for getting used to RGB values
 
 # Live Demo
 
-To see the app in action, please visit[https://whispering-scrubland-16592.herokuapp.com/](https://whispering-scrubland-16592.herokuapp.com/)
+To see the app in action, please visit [https://whispering-scrubland-16592.herokuapp.com/](https://whispering-scrubland-16592.herokuapp.com/)
 
 # Overview
 
